@@ -1,5 +1,7 @@
 # Wage Disparity Amongst Genders in the Health Practitioner Industry
 
+**STUDENTS: Ian Brandenburg and David Szabados**
+
 ## Data Overview:
 - Analyzed occupation codes 3000-3540, focusing on health practitioners.
 - Created variables: gender (numeric binary), weekly wages, log of wages.
